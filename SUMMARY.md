@@ -4,10 +4,11 @@
 
 ## Blue
 
-* [IBM QRadar](blue/ibm-qradar.md)
+* [Linux IR](blue/linux-ir.md)
 
 ## Others
 
+* [To see](others/to-see.md)
 * [IBM LDAP SDS 6.4](others/ibm-ldap-sds-6.4/README.md)
   * [Reorg DB2](others/ibm-ldap-sds-6.4/reorg-db2.md)
   * [Replication Queue](others/ibm-ldap-sds-6.4/replication-queue.md)
