@@ -16,3 +16,6 @@
   * [Comandos Úteis](others/ibm-ldap-sds-6.4/comandos-uteis.md)
   * [Certificados LDAP SDS](others/ibm-ldap-sds-6.4/certificados-ldap-sds/README.md)
     * [Criação de certificados CA](others/ibm-ldap-sds-6.4/certificados-ldap-sds/criacao-de-certificados-ca.md)
+* [Servidor Python 2 - Multithread](others/servidor-python-2-multithread.md)
+* [Python3 Server - multi](others/python3-server-multi.md)
+* [Docker + docker compose install script](others/docker-+-docker-compose-install-script.md)
