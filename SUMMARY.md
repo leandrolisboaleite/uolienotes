@@ -6,6 +6,10 @@
 
 * [Linux IR](blue/linux-ir.md)
 
+## 🔴 RED
+
+* [Page 1](red/page-1.md)
+
 ## Others
 
 * [To see](others/to-see.md)
