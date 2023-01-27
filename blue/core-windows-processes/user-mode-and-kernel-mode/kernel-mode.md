@@ -4,4 +4,4 @@ All code that runs in kernel mode shares a single [virtual address space](https:
 
 This diagram illustrates communication between user-mode and kernel-mode components.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

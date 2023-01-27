@@ -10,7 +10,7 @@ The official definition from Windows Internals 6th Edition:
 
 ### &#x20;Normal behavior
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Image Path**: N/A&#x20;
 
@@ -26,7 +26,7 @@ The official definition from Windows Internals 6th Edition:
 
 The information is slightly different if we view the System properties using Process Hacker.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Image Path**: C:\Windows\system32\ntoskrnl.exe (NT OS Kernel)&#x20;
 

@@ -11,7 +11,9 @@
   * [User mode & Kernel Mode](blue/core-windows-processes/user-mode-and-kernel-mode/README.md)
     * [User mode](blue/core-windows-processes/user-mode-and-kernel-mode/user-mode.md)
     * [Kernel Mode](blue/core-windows-processes/user-mode-and-kernel-mode/kernel-mode.md)
-  * [System](blue/core-windows-processes/system.md)
+  * [System](blue/core-windows-processes/system/README.md)
+    * [smss.exe](blue/core-windows-processes/system/smss.exe.md)
+  * [csrss.exe](blue/core-windows-processes/csrss.exe.md)
 
 ## 🔴 RED
 
