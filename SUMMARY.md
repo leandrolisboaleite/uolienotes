@@ -32,3 +32,4 @@
 * [Servidor Python 2 - Multithread](others/servidor-python-2-multithread.md)
 * [Python3 Server - multi](others/python3-server-multi.md)
 * [Docker + docker compose install script](others/docker-+-docker-compose-install-script.md)
+* [QRadar script](others/qradar-script.md)
