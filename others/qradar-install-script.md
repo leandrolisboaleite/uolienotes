@@ -1,4 +1,4 @@
-# QRadar script
+# QRadar Install Script
 
 {% code overflow="wrap" %}
 ```bash
