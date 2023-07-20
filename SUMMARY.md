@@ -2,19 +2,6 @@
 
 * [😀 Welcome!](README.md)
 
-## Blue
-
-* [Powershell IR](blue/powershell-ir/README.md)
-  * [Page 2](blue/powershell-ir/page-2.md)
-* [Linux IR](blue/linux-ir.md)
-* [Core Windows Processes](blue/core-windows-processes/README.md)
-  * [User mode & Kernel Mode](blue/core-windows-processes/user-mode-and-kernel-mode/README.md)
-    * [User mode](blue/core-windows-processes/user-mode-and-kernel-mode/user-mode.md)
-    * [Kernel Mode](blue/core-windows-processes/user-mode-and-kernel-mode/kernel-mode.md)
-  * [System](blue/core-windows-processes/system/README.md)
-    * [smss.exe](blue/core-windows-processes/system/smss.exe.md)
-  * [csrss.exe](blue/core-windows-processes/csrss.exe.md)
-
 ## 🔴 RED
 
 * [Page 1](red/page-1.md)
