@@ -4,7 +4,8 @@
 
 ## 🔴 RED
 
-* [Page 1](red/page-1.md)
+* [Script wole pré ctf](red/script-wole-pre-ctf.md)
+* [Subdomain Enumeration](red/subdomain-enumeration.md)
 
 ## Others
 
