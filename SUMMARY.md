@@ -26,3 +26,8 @@
 ***
 
 * [Subfinder](subfinder.md)
+
+## 🟢 HTB
+
+* [Easy](htb/easy/README.md)
+  * [MonitorsTwo](htb/easy/monitorstwo.md)
