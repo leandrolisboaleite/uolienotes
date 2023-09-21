@@ -33,3 +33,8 @@
 
 * [Easy](htb/easy/README.md)
   * [MonitorsTwo](htb/easy/monitorstwo.md)
+
+***
+
+* [PrivEsc](privesc/README.md)
+  * [/usr/bin/pkexec](privesc/usr-bin-pkexec.md)
