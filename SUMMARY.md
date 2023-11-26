@@ -38,3 +38,8 @@
 
 * [PrivEsc](privesc/README.md)
   * [/usr/bin/pkexec](privesc/usr-bin-pkexec.md)
+
+## 🟣 EJPT
+
+* [Passive Information Gathering](ejpt/passive-information-gathering/README.md)
+  * [Website Recon & Footprinting](ejpt/passive-information-gathering/website-recon-and-footprinting.md)
