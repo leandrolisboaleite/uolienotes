@@ -43,3 +43,7 @@
 
 * [Passive Information Gathering](ejpt/passive-information-gathering/README.md)
   * [Website Recon & Footprinting](ejpt/passive-information-gathering/website-recon-and-footprinting.md)
+  * [Website footprinting with Netcraft](ejpt/passive-information-gathering/website-footprinting-with-netcraft.md)
+  * [Passive DNS Recon](ejpt/passive-information-gathering/passive-dns-recon.md)
+  * [WAF Detection - wafw00f](ejpt/passive-information-gathering/waf-detection-wafw00f.md)
+  * [Subdomain enumeration with Sublist3r](ejpt/passive-information-gathering/subdomain-enumeration-with-sublist3r.md)
