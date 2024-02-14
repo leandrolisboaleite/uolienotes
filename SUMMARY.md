@@ -2,9 +2,11 @@
 
 * [😀 Welcome!](README.md)
 
-## 🔴 RED
+## 🔴 DCPT <a href="#red" id="red"></a>
 
-* [Script wole pré ctf](red/script-wole-pre-ctf.md)
+* [Guides dcpt](red/guides-dcpt.md)
+* [Initial](red/initial.md)
+* [Buffer Overflow dcpt](red/buffer-overflow-dcpt.md)
 * [Subdomain Enumeration](red/subdomain-enumeration.md)
 
 ## Others
