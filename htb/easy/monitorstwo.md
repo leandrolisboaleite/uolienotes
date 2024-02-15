@@ -1,6 +1,6 @@
 # MonitorsTwo
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
 
 nmap -sC -sV -vvv -Pn 10.10.11.211 | tee nmap.monitortwo
 
@@ -10,18 +10,18 @@ Discovered open port 80/tcp on 10.10.11.211
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cacti Webpage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Cacti Webpage</p></figcaption></figure>
 
 * Checked if Cacti Version 1.2.22 is vulnerable to a vulnerability and found an exploit [CVE-2022-46169](https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22)
 * This exploit allows unauthenticated Remote Code Execution on the machine.
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Exploit success + got a shell back</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Exploit success + got a shell back</p></figcaption></figure>
 
 Tried to search for user flag but couldnt find one, seems like we are in a Docker enviroment
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Entrypoint and dockerenv</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Entrypoint and dockerenv</p></figcaption></figure>
 
 
 
