@@ -66,6 +66,14 @@ Host: businesscorp.com.br
 
 
 
+Teste 1.1 para HTTPS
+
+openssl s\_client -connect IP:443
+
+
+
+
+
 
 
 
