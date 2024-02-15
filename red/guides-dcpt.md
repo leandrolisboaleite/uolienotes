@@ -13,3 +13,5 @@ description: kali-br-gru - 172.233.1.153
 {% embed url="https://caesartcs.gitbook.io/oscp/chapter-2" %}
 
 {% embed url="https://github.com/swisskyrepo/PayloadsAllTheThings" %}
+
+{% embed url="https://gabb4r.gitbook.io/oscp-notes/web-http/automated-scanners" %}

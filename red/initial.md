@@ -12,6 +12,16 @@ nmap IP -sU | nmapudp.txt&#x20;
 
 
 
+FW EVASION
+
+```
+nmap --mtu 24 <IP>
+nmap --data-length 30 <IP>
+nmap --source-port 53 <IP>
+```
+
+
+
 WEB RECON
 
 
