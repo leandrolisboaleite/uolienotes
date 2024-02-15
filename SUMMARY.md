@@ -8,6 +8,8 @@
 * [Initial](red/initial.md)
 * [Buffer Overflow dcpt](red/buffer-overflow-dcpt.md)
 * [Subdomain Enumeration](red/subdomain-enumeration.md)
+* [BO Linux](red/bo-linux/README.md)
+  * [Page](red/bo-linux/page.md)
 
 ## Others
 

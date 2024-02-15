@@ -14,4 +14,6 @@ description: kali-br-gru - 172.233.1.153
 
 {% embed url="https://github.com/swisskyrepo/PayloadsAllTheThings" %}
 
+{% embed url="https://blog.paulkadali.com/certifications/ejpt/cheatsheet-notes/web-attacks" %}
+
 {% embed url="https://gabb4r.gitbook.io/oscp-notes/web-http/automated-scanners" %}
