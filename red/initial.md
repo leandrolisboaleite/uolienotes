@@ -58,6 +58,16 @@ OPTIONS /seila HTTP/1.0 (PARA ENTENDER OS METODOS QUE O SITE ACEITA)
 
 
 
+Teste do 1.1 tem q passar host
+
+GET / HTTP/1.1
+
+Host: businesscorp.com.br
+
+
+
+
+
 
 
 
